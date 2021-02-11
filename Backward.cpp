@@ -9,6 +9,9 @@ using namespace std;
 //project #1.  The program contains some errors and it is not designed to be efficient.
 //Modify the program to make it better and efficient.  Explain in your report how you have modified the
 //program to make it better.
+//MODIFICATIONS: Moved goto statements into functions -
+//-could possibly use dynamic allocation for the character arrays instead
+//-pass by reference would require a lot of refactoring by is more efficient as well
 
 
 
